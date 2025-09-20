@@ -3,4 +3,4 @@ git add . - add the files(all)
 git commit -m "desciption" - comitting the project
 git branch -m main - creating a branch in github - main/master , dev, prince, emeka, abrahamdev
 git remote
-git push 
+git push -u main 
