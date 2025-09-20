@@ -1,0 +1,5 @@
+mkdir = create a directory/folder
+    mkdir folder_name
+
+pwd - check the path
+ls - list
