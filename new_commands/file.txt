@@ -6,3 +6,11 @@ and Comfort is feeling amazing
 git add .
 git commit -m "new commands"
 git push
+
+folder or project and a website that saves your project
+
+git command commumincate with website has storage (files, folders, projects)- repistories
+
+
+query - table orders and emeka customer, abraham trasaction
+
