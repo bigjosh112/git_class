@@ -1,0 +1,8 @@
+Emeka comes early
+Abraham come early also
+and Comfort is feeling amazing
+
+
+git add .
+git commit -m "new commands"
+git push
