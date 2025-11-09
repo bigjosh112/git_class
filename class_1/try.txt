@@ -1,0 +1,28 @@
+Hello tobi and hello yahaya, My name is dayo and i am your tutor for today's class also for the next feew classes for git and dbt
+
+
+Hi this is sunday, and it reminds me of mondays due to work.......
+
+
+
+
+
+classwork 1
+create afolder called git_class_1
+inside of the folder create a file calss try.txt
+type something interesting about yourself
+then push to github
+
+
+git init - intailizing git - get ready i want to use git
+git add . - adding everything you have created
+git commit -m "first commit" -  commit - to take serious
+git branch -M main -  i want to create path of git called main - main/master , dev/ staging, tobidev, tobi-dev
+git remote add origin https://github.com/bigjosh112/git_class_1.git - where are you doing your magic on
+git push -u origin main - push your command to the github
+
+
+repo - made change - local  ====>  online reflect on github
+
+ git add .
+ 
